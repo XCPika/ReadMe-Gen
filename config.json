@@ -1,0 +1,10 @@
+{
+    "name": "ReadMe-Gen",
+    "description": "A simple project to generate README.md files for other projects",
+    "installation": "",
+    "usage": "Run \u005C_\u005C_init\u005C_\u005C_.py",
+    "contribution": "",
+    "testing": "",
+    "questions": "How to install?\nYou just need to run the script. If you aren't able then you likely don't have python installed",
+    "license": "MIT"
+}
